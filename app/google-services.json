@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725363147711",
+    "project_id": "electrical-4c119",
+    "storage_bucket": "electrical-4c119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725363147711:android:a003ec5d551e19fed1170a",
+        "android_client_info": {
+          "package_name": "com.coresoft.electricalsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725363147711-fh4v5sjnp21c1r79b2fmfbrp2a8thk2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmVMnILDEGnPUUDMtrJVn_OUyejhFYL-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725363147711-fh4v5sjnp21c1r79b2fmfbrp2a8thk2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

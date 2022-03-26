@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Electrical Solutions</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+
+    <string name="wifi_switches">WiFi Switches</string>
+    <string name="book_a_technician">Book A Electrician</string>
+    <string name="username">Profile Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trs_device_id">TRS Device Id</string>
+    <string name="home_automation"><![CDATA[& Home Automation]]></string>
+    <string name="textview">TextView</string>
+    <string name="time">--|--</string>
+    <string name="todo">TODO</string>
+    <string name="term_conditions"><![CDATA[Term & Conditions]]></string>
+    <string-array name="button_id">
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>B4</item>
+    </string-array>
+</resources>

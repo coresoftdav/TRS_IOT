@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_s"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Profile Setting" />
+    <item
+        android:id="@+id/wifi_s"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="TRS WiFi Setting" />
+    <item
+        android:id="@+id/trs_s"
+        android:icon="@drawable/ic_baseline_wifi_tethering_24"
+        android:title="TRS Control Settings" />
+    <item
+        android:id="@+id/tc"
+        android:title="@string/term_conditions" />
+    <item
+        android:id="@+id/contectus"
+        android:title="Contect Us." />
+</menu>
